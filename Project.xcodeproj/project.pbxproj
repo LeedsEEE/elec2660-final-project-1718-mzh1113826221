@@ -17,17 +17,28 @@
 		042436E91FC5B4C000609850 /* ProjectUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 042436E81FC5B4C000609850 /* ProjectUITests.m */; };
 		0453160B1FD9513900EA6744 /* button.png in Resources */ = {isa = PBXBuildFile; fileRef = 0453160A1FD9513900EA6744 /* button.png */; };
 		045316471FDA07AA00EA6744 /* MajorViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 045316311FDA07A800EA6744 /* MajorViewCell.xib */; };
-		045316481FDA07AA00EA6744 /* KCAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 045316321FDA07A800EA6744 /* KCAnnotation.m */; };
-		045316491FDA07AA00EA6744 /* KCMapModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 045316331FDA07A800EA6744 /* KCMapModel.m */; };
 		0453164A1FDA07AA00EA6744 /* BBTabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 045316351FDA07A800EA6744 /* BBTabBarViewController.m */; };
 		0453164B1FDA07AA00EA6744 /* CourseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 045316371FDA07A800EA6744 /* CourseViewController.m */; };
 		0453164C1FDA07AA00EA6744 /* MajorViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0453163A1FDA07A900EA6744 /* MajorViewCell.m */; };
 		0453164D1FDA07AA00EA6744 /* CourseViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0453163C1FDA07A900EA6744 /* CourseViewCell.m */; };
-		0453164E1FDA07AA00EA6744 /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0453163F1FDA07A900EA6744 /* MapViewController.m */; };
 		0453164F1FDA07AA00EA6744 /* CourseViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 045316401FDA07A900EA6744 /* CourseViewCell.xib */; };
 		045316501FDA07AA00EA6744 /* MajorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 045316431FDA07A900EA6744 /* MajorViewController.m */; };
-		045316511FDA07AA00EA6744 /* KCCalloutAnimationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 045316441FDA07A900EA6744 /* KCCalloutAnimationView.m */; };
-		045316521FDA07AA00EA6744 /* KCCalloutAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 045316461FDA07AA00EA6744 /* KCCalloutAnimation.m */; };
+		045CE2A41FDAB8010071A9A9 /* icon0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 045CE2931FDAB8000071A9A9 /* icon0.jpg */; };
+		045CE2A51FDAB8010071A9A9 /* CourseCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 045CE2961FDAB8000071A9A9 /* CourseCell.m */; };
+		045CE2A61FDAB8010071A9A9 /* CourseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 045CE2971FDAB8000071A9A9 /* CourseModel.m */; };
+		045CE2A71FDAB8010071A9A9 /* CouresCollectionViewLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 045CE2981FDAB8000071A9A9 /* CouresCollectionViewLayout.m */; };
+		045CE2A81FDAB8010071A9A9 /* TagResuableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 045CE2991FDAB8000071A9A9 /* TagResuableView.m */; };
+		045CE2A91FDAB8010071A9A9 /* weekCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 045CE29A1FDAB8000071A9A9 /* weekCell.m */; };
+		045CE2AB1FDAB8010071A9A9 /* dingwei1.png in Resources */ = {isa = PBXBuildFile; fileRef = 045CE29D1FDAB8000071A9A9 /* dingwei1.png */; };
+		045CE2AC1FDAB8010071A9A9 /* weekDay.m in Sources */ = {isa = PBXBuildFile; fileRef = 045CE29F1FDAB8010071A9A9 /* weekDay.m */; };
+		045CE2AD1FDAB8010071A9A9 /* SelectWeekView.m in Sources */ = {isa = PBXBuildFile; fileRef = 045CE2A11FDAB8010071A9A9 /* SelectWeekView.m */; };
+		045CE2B01FDACABE0071A9A9 /* Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = 045CE2AE1FDACABE0071A9A9 /* Utils.m */; };
+		045CE2BE1FDAD7210071A9A9 /* XWLocationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 045CE2BD1FDAD7210071A9A9 /* XWLocationManager.m */; };
+		045CE2CA1FDAD9300071A9A9 /* KCCalloutAnimationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 045CE2C11FDAD92F0071A9A9 /* KCCalloutAnimationView.m */; };
+		045CE2CB1FDAD9300071A9A9 /* KCCalloutAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 045CE2C41FDAD92F0071A9A9 /* KCCalloutAnimation.m */; };
+		045CE2CC1FDAD9300071A9A9 /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 045CE2C61FDAD92F0071A9A9 /* MapViewController.m */; };
+		045CE2CD1FDAD9300071A9A9 /* KCAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 045CE2C71FDAD92F0071A9A9 /* KCAnnotation.m */; };
+		045CE2CE1FDAD9300071A9A9 /* KCMapModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 045CE2C91FDAD92F0071A9A9 /* KCMapModel.m */; };
 		0481B9271FDA92C000EA683F /* moduleDetailModle.m in Sources */ = {isa = PBXBuildFile; fileRef = 0481B9261FDA92C000EA683F /* moduleDetailModle.m */; };
 /* End PBXBuildFile section */
 
@@ -67,27 +78,48 @@
 		042436EA1FC5B4C000609850 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0453160A1FD9513900EA6744 /* button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button.png; sourceTree = "<group>"; };
 		045316311FDA07A800EA6744 /* MajorViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = MajorViewCell.xib; path = ../../../../../Downloads/SchoolApp/SchoolApp/MajorViewCell.xib; sourceTree = "<group>"; };
-		045316321FDA07A800EA6744 /* KCAnnotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KCAnnotation.m; path = ../../../../../Downloads/SchoolApp/SchoolApp/KCAnnotation.m; sourceTree = "<group>"; };
-		045316331FDA07A800EA6744 /* KCMapModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KCMapModel.m; path = ../../../../../Downloads/SchoolApp/SchoolApp/KCMapModel.m; sourceTree = "<group>"; };
-		045316341FDA07A800EA6744 /* KCMapModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KCMapModel.h; path = ../../../../../Downloads/SchoolApp/SchoolApp/KCMapModel.h; sourceTree = "<group>"; };
 		045316351FDA07A800EA6744 /* BBTabBarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BBTabBarViewController.m; sourceTree = "<group>"; };
-		045316361FDA07A800EA6744 /* MapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MapViewController.h; path = ../../../../../Downloads/SchoolApp/SchoolApp/MapViewController.h; sourceTree = "<group>"; };
 		045316371FDA07A800EA6744 /* CourseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CourseViewController.m; path = ../../../../../Downloads/SchoolApp/SchoolApp/CourseViewController.m; sourceTree = "<group>"; };
-		045316381FDA07A800EA6744 /* KCCalloutAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KCCalloutAnimation.h; path = ../../../../../Downloads/SchoolApp/SchoolApp/KCCalloutAnimation.h; sourceTree = "<group>"; };
 		045316391FDA07A900EA6744 /* BBTabBarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BBTabBarViewController.h; sourceTree = "<group>"; };
 		0453163A1FDA07A900EA6744 /* MajorViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MajorViewCell.m; path = ../../../../../Downloads/SchoolApp/SchoolApp/MajorViewCell.m; sourceTree = "<group>"; };
 		0453163B1FDA07A900EA6744 /* CourseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CourseViewController.h; path = ../../../../../Downloads/SchoolApp/SchoolApp/CourseViewController.h; sourceTree = "<group>"; };
 		0453163C1FDA07A900EA6744 /* CourseViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CourseViewCell.m; path = ../../../../../Downloads/SchoolApp/SchoolApp/CourseViewCell.m; sourceTree = "<group>"; };
 		0453163D1FDA07A900EA6744 /* MajorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MajorViewController.h; path = ../../../../../Downloads/SchoolApp/SchoolApp/MajorViewController.h; sourceTree = "<group>"; };
-		0453163E1FDA07A900EA6744 /* KCAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KCAnnotation.h; path = ../../../../../Downloads/SchoolApp/SchoolApp/KCAnnotation.h; sourceTree = "<group>"; };
-		0453163F1FDA07A900EA6744 /* MapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MapViewController.m; path = ../../../../../Downloads/SchoolApp/SchoolApp/MapViewController.m; sourceTree = "<group>"; };
 		045316401FDA07A900EA6744 /* CourseViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = CourseViewCell.xib; path = ../../../../../Downloads/SchoolApp/SchoolApp/CourseViewCell.xib; sourceTree = "<group>"; };
-		045316411FDA07A900EA6744 /* KCCalloutAnimationView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KCCalloutAnimationView.h; path = ../../../../../Downloads/SchoolApp/SchoolApp/KCCalloutAnimationView.h; sourceTree = "<group>"; };
 		045316421FDA07A900EA6744 /* CourseViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CourseViewCell.h; path = ../../../../../Downloads/SchoolApp/SchoolApp/CourseViewCell.h; sourceTree = "<group>"; };
 		045316431FDA07A900EA6744 /* MajorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MajorViewController.m; path = ../../../../../Downloads/SchoolApp/SchoolApp/MajorViewController.m; sourceTree = "<group>"; };
-		045316441FDA07A900EA6744 /* KCCalloutAnimationView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KCCalloutAnimationView.m; path = ../../../../../Downloads/SchoolApp/SchoolApp/KCCalloutAnimationView.m; sourceTree = "<group>"; };
 		045316451FDA07AA00EA6744 /* MajorViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MajorViewCell.h; path = ../../../../../Downloads/SchoolApp/SchoolApp/MajorViewCell.h; sourceTree = "<group>"; };
-		045316461FDA07AA00EA6744 /* KCCalloutAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KCCalloutAnimation.m; path = ../../../../../Downloads/SchoolApp/SchoolApp/KCCalloutAnimation.m; sourceTree = "<group>"; };
+		045CE2921FDAB8000071A9A9 /* CourseCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CourseCell.h; sourceTree = "<group>"; };
+		045CE2931FDAB8000071A9A9 /* icon0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = icon0.jpg; sourceTree = "<group>"; };
+		045CE2941FDAB8000071A9A9 /* TagResuableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TagResuableView.h; sourceTree = "<group>"; };
+		045CE2951FDAB8000071A9A9 /* SelectWeekView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectWeekView.h; sourceTree = "<group>"; };
+		045CE2961FDAB8000071A9A9 /* CourseCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CourseCell.m; sourceTree = "<group>"; };
+		045CE2971FDAB8000071A9A9 /* CourseModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CourseModel.m; sourceTree = "<group>"; };
+		045CE2981FDAB8000071A9A9 /* CouresCollectionViewLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CouresCollectionViewLayout.m; sourceTree = "<group>"; };
+		045CE2991FDAB8000071A9A9 /* TagResuableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TagResuableView.m; sourceTree = "<group>"; };
+		045CE29A1FDAB8000071A9A9 /* weekCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = weekCell.m; sourceTree = "<group>"; };
+		045CE29C1FDAB8000071A9A9 /* weekCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = weekCell.h; sourceTree = "<group>"; };
+		045CE29D1FDAB8000071A9A9 /* dingwei1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dingwei1.png; sourceTree = "<group>"; };
+		045CE29F1FDAB8010071A9A9 /* weekDay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = weekDay.m; sourceTree = "<group>"; };
+		045CE2A01FDAB8010071A9A9 /* CourseModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CourseModel.h; sourceTree = "<group>"; };
+		045CE2A11FDAB8010071A9A9 /* SelectWeekView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectWeekView.m; sourceTree = "<group>"; };
+		045CE2A21FDAB8010071A9A9 /* weekDay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = weekDay.h; sourceTree = "<group>"; };
+		045CE2A31FDAB8010071A9A9 /* CouresCollectionViewLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CouresCollectionViewLayout.h; sourceTree = "<group>"; };
+		045CE2AE1FDACABE0071A9A9 /* Utils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Utils.m; path = "../../../../../Downloads/SchoolApp 3/SchoolApp/XWLocationManger/Utils.m"; sourceTree = "<group>"; };
+		045CE2AF1FDACABE0071A9A9 /* Utils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Utils.h; path = "../../../../../Downloads/SchoolApp 3/SchoolApp/XWLocationManger/Utils.h"; sourceTree = "<group>"; };
+		045CE2BC1FDAD7210071A9A9 /* XWLocationManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XWLocationManager.h; sourceTree = "<group>"; };
+		045CE2BD1FDAD7210071A9A9 /* XWLocationManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XWLocationManager.m; sourceTree = "<group>"; };
+		045CE2BF1FDAD77C0071A9A9 /* Singleton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Singleton.h; sourceTree = "<group>"; };
+		045CE2C01FDAD92F0071A9A9 /* KCCalloutAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KCCalloutAnimation.h; path = "../../../../../Downloads/SchoolApp 3/SchoolApp/KCCalloutAnimation.h"; sourceTree = "<group>"; };
+		045CE2C11FDAD92F0071A9A9 /* KCCalloutAnimationView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KCCalloutAnimationView.m; path = "../../../../../Downloads/SchoolApp 3/SchoolApp/KCCalloutAnimationView.m"; sourceTree = "<group>"; };
+		045CE2C21FDAD92F0071A9A9 /* KCAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KCAnnotation.h; path = "../../../../../Downloads/SchoolApp 3/SchoolApp/KCAnnotation.h"; sourceTree = "<group>"; };
+		045CE2C31FDAD92F0071A9A9 /* KCMapModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KCMapModel.h; path = "../../../../../Downloads/SchoolApp 3/SchoolApp/KCMapModel.h"; sourceTree = "<group>"; };
+		045CE2C41FDAD92F0071A9A9 /* KCCalloutAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KCCalloutAnimation.m; path = "../../../../../Downloads/SchoolApp 3/SchoolApp/KCCalloutAnimation.m"; sourceTree = "<group>"; };
+		045CE2C51FDAD92F0071A9A9 /* MapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MapViewController.h; path = "../../../../../Downloads/SchoolApp 3/SchoolApp/MapViewController.h"; sourceTree = "<group>"; };
+		045CE2C61FDAD92F0071A9A9 /* MapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MapViewController.m; path = "../../../../../Downloads/SchoolApp 3/SchoolApp/MapViewController.m"; sourceTree = "<group>"; };
+		045CE2C71FDAD92F0071A9A9 /* KCAnnotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KCAnnotation.m; path = "../../../../../Downloads/SchoolApp 3/SchoolApp/KCAnnotation.m"; sourceTree = "<group>"; };
+		045CE2C81FDAD92F0071A9A9 /* KCCalloutAnimationView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KCCalloutAnimationView.h; path = "../../../../../Downloads/SchoolApp 3/SchoolApp/KCCalloutAnimationView.h"; sourceTree = "<group>"; };
+		045CE2C91FDAD92F0071A9A9 /* KCMapModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KCMapModel.m; path = "../../../../../Downloads/SchoolApp 3/SchoolApp/KCMapModel.m"; sourceTree = "<group>"; };
 		0481B9251FDA92C000EA683F /* moduleDetailModle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = moduleDetailModle.h; sourceTree = "<group>"; };
 		0481B9261FDA92C000EA683F /* moduleDetailModle.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = moduleDetailModle.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -120,6 +152,8 @@
 		042436B81FC5B4C000609850 = {
 			isa = PBXGroup;
 			children = (
+				045CE2B11FDAD6FF0071A9A9 /* Map */,
+				045CE2911FDAB3390071A9A9 /* Timetable */,
 				045316091FD950C300EA6744 /* Background Images */,
 				042436C31FC5B4C000609850 /* Project */,
 				042436DC1FC5B4C000609850 /* ProjectTests */,
@@ -160,16 +194,16 @@
 				045316421FDA07A900EA6744 /* CourseViewCell.h */,
 				0453163C1FDA07A900EA6744 /* CourseViewCell.m */,
 				045316401FDA07A900EA6744 /* CourseViewCell.xib */,
-				045316361FDA07A800EA6744 /* MapViewController.h */,
-				0453163F1FDA07A900EA6744 /* MapViewController.m */,
-				045316341FDA07A800EA6744 /* KCMapModel.h */,
-				045316331FDA07A800EA6744 /* KCMapModel.m */,
-				045316381FDA07A800EA6744 /* KCCalloutAnimation.h */,
-				045316461FDA07AA00EA6744 /* KCCalloutAnimation.m */,
-				045316411FDA07A900EA6744 /* KCCalloutAnimationView.h */,
-				045316441FDA07A900EA6744 /* KCCalloutAnimationView.m */,
-				0453163E1FDA07A900EA6744 /* KCAnnotation.h */,
-				045316321FDA07A800EA6744 /* KCAnnotation.m */,
+				045CE2C51FDAD92F0071A9A9 /* MapViewController.h */,
+				045CE2C61FDAD92F0071A9A9 /* MapViewController.m */,
+				045CE2C31FDAD92F0071A9A9 /* KCMapModel.h */,
+				045CE2C91FDAD92F0071A9A9 /* KCMapModel.m */,
+				045CE2C01FDAD92F0071A9A9 /* KCCalloutAnimation.h */,
+				045CE2C41FDAD92F0071A9A9 /* KCCalloutAnimation.m */,
+				045CE2C81FDAD92F0071A9A9 /* KCCalloutAnimationView.h */,
+				045CE2C11FDAD92F0071A9A9 /* KCCalloutAnimationView.m */,
+				045CE2C21FDAD92F0071A9A9 /* KCAnnotation.h */,
+				045CE2C71FDAD92F0071A9A9 /* KCAnnotation.m */,
 				042436CD1FC5B4C000609850 /* Assets.xcassets */,
 				042436CF1FC5B4C000609850 /* LaunchScreen.storyboard */,
 				042436D21FC5B4C000609850 /* Info.plist */,
@@ -199,9 +233,44 @@
 		045316091FD950C300EA6744 /* Background Images */ = {
 			isa = PBXGroup;
 			children = (
+				045CE29D1FDAB8000071A9A9 /* dingwei1.png */,
+				045CE2931FDAB8000071A9A9 /* icon0.jpg */,
 				0453160A1FD9513900EA6744 /* button.png */,
 			);
 			path = "Background Images";
+			sourceTree = "<group>";
+		};
+		045CE2911FDAB3390071A9A9 /* Timetable */ = {
+			isa = PBXGroup;
+			children = (
+				045CE2A31FDAB8010071A9A9 /* CouresCollectionViewLayout.h */,
+				045CE2981FDAB8000071A9A9 /* CouresCollectionViewLayout.m */,
+				045CE2921FDAB8000071A9A9 /* CourseCell.h */,
+				045CE2961FDAB8000071A9A9 /* CourseCell.m */,
+				045CE2A01FDAB8010071A9A9 /* CourseModel.h */,
+				045CE2971FDAB8000071A9A9 /* CourseModel.m */,
+				045CE2951FDAB8000071A9A9 /* SelectWeekView.h */,
+				045CE2A11FDAB8010071A9A9 /* SelectWeekView.m */,
+				045CE2941FDAB8000071A9A9 /* TagResuableView.h */,
+				045CE2991FDAB8000071A9A9 /* TagResuableView.m */,
+				045CE2AF1FDACABE0071A9A9 /* Utils.h */,
+				045CE2AE1FDACABE0071A9A9 /* Utils.m */,
+				045CE29C1FDAB8000071A9A9 /* weekCell.h */,
+				045CE29A1FDAB8000071A9A9 /* weekCell.m */,
+				045CE2A21FDAB8010071A9A9 /* weekDay.h */,
+				045CE29F1FDAB8010071A9A9 /* weekDay.m */,
+			);
+			path = Timetable;
+			sourceTree = "<group>";
+		};
+		045CE2B11FDAD6FF0071A9A9 /* Map */ = {
+			isa = PBXGroup;
+			children = (
+				045CE2BF1FDAD77C0071A9A9 /* Singleton.h */,
+				045CE2BC1FDAD7210071A9A9 /* XWLocationManager.h */,
+				045CE2BD1FDAD7210071A9A9 /* XWLocationManager.m */,
+			);
+			path = Map;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -314,8 +383,10 @@
 				042436D11FC5B4C000609850 /* LaunchScreen.storyboard in Resources */,
 				0453160B1FD9513900EA6744 /* button.png in Resources */,
 				0453164F1FDA07AA00EA6744 /* CourseViewCell.xib in Resources */,
+				045CE2A41FDAB8010071A9A9 /* icon0.jpg in Resources */,
 				042436CE1FC5B4C000609850 /* Assets.xcassets in Resources */,
 				042436CC1FC5B4C000609850 /* Main.storyboard in Resources */,
+				045CE2AB1FDAB8010071A9A9 /* dingwei1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -340,17 +411,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				045316491FDA07AA00EA6744 /* KCMapModel.m in Sources */,
+				045CE2A81FDAB8010071A9A9 /* TagResuableView.m in Sources */,
+				045CE2B01FDACABE0071A9A9 /* Utils.m in Sources */,
+				045CE2A71FDAB8010071A9A9 /* CouresCollectionViewLayout.m in Sources */,
+				045CE2CA1FDAD9300071A9A9 /* KCCalloutAnimationView.m in Sources */,
 				045316501FDA07AA00EA6744 /* MajorViewController.m in Sources */,
 				042436C91FC5B4C000609850 /* ViewController.m in Sources */,
+				045CE2CC1FDAD9300071A9A9 /* MapViewController.m in Sources */,
 				042436D41FC5B4C000609850 /* main.m in Sources */,
-				045316521FDA07AA00EA6744 /* KCCalloutAnimation.m in Sources */,
-				045316511FDA07AA00EA6744 /* KCCalloutAnimationView.m in Sources */,
-				045316481FDA07AA00EA6744 /* KCAnnotation.m in Sources */,
+				045CE2AD1FDAB8010071A9A9 /* SelectWeekView.m in Sources */,
+				045CE2A91FDAB8010071A9A9 /* weekCell.m in Sources */,
+				045CE2CB1FDAD9300071A9A9 /* KCCalloutAnimation.m in Sources */,
 				0453164B1FDA07AA00EA6744 /* CourseViewController.m in Sources */,
+				045CE2CD1FDAD9300071A9A9 /* KCAnnotation.m in Sources */,
+				045CE2BE1FDAD7210071A9A9 /* XWLocationManager.m in Sources */,
+				045CE2CE1FDAD9300071A9A9 /* KCMapModel.m in Sources */,
 				0453164D1FDA07AA00EA6744 /* CourseViewCell.m in Sources */,
 				0453164A1FDA07AA00EA6744 /* BBTabBarViewController.m in Sources */,
-				0453164E1FDA07AA00EA6744 /* MapViewController.m in Sources */,
+				045CE2AC1FDAB8010071A9A9 /* weekDay.m in Sources */,
+				045CE2A61FDAB8010071A9A9 /* CourseModel.m in Sources */,
+				045CE2A51FDAB8010071A9A9 /* CourseCell.m in Sources */,
 				0453164C1FDA07AA00EA6744 /* MajorViewCell.m in Sources */,
 				0481B9271FDA92C000EA683F /* moduleDetailModle.m in Sources */,
 				042436C61FC5B4C000609850 /* AppDelegate.m in Sources */,
